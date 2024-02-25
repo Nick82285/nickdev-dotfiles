@@ -1,0 +1,181 @@
+[INFO  Sat 03 Jun 2023 02:18:07 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[INFO  Sat 03 Jun 2023 02:18:08 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lua-language-server)
+[INFO  Sat 03 Jun 2023 03:48:18 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[INFO  Sat 03 Jun 2023 03:48:30 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=rust-analyzer)
+[INFO  Sat 03 Jun 2023 05:47:07 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[INFO  Sat 03 Jun 2023 05:47:10 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=rust-analyzer)
+[INFO  Sat 03 Jun 2023 07:33:03 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[INFO  Sat 03 Jun 2023 07:33:10 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=rust-analyzer)
+[INFO  Sun 04 Jun 2023 12:30:26 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[INFO  Sun 04 Jun 2023 12:30:28 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lua-language-server)
+[INFO  Sun 04 Jun 2023 12:39:16 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[INFO  Sun 04 Jun 2023 12:39:18 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lua-language-server)
+[INFO  Sun 04 Jun 2023 12:39:53 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[INFO  Sun 04 Jun 2023 12:40:06 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=rust-analyzer)
+[INFO  Sun 04 Jun 2023 12:40:24 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rustfmt) {}
+[INFO  Sun 04 Jun 2023 12:40:27 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=rustfmt)
+[INFO  Mon 17 Jul 2023 08:45:17 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[INFO  Mon 17 Jul 2023 08:45:19 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lua-language-server)
+[ERROR Mon 17 Jul 2023 08:45:40 PM PDT] ...l/share/nvim/lazy/mason.nvim/lua/mason-registry/init.lua:79: Cannot find package "\"rust\"".
+[INFO  Mon 17 Jul 2023 08:46:56 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[INFO  Mon 17 Jul 2023 08:47:00 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=rust-analyzer)
+[INFO  Mon 17 Jul 2023 08:49:12 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=codelldb) {}
+[INFO  Mon 17 Jul 2023 08:49:22 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=codelldb)
+[INFO  Mon 17 Jul 2023 08:58:15 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[INFO  Mon 17 Jul 2023 08:58:15 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Mon 17 Jul 2023 08:58:15 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=css-lsp) {}
+[INFO  Mon 17 Jul 2023 08:58:15 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=html-lsp) {}
+[INFO  Mon 17 Jul 2023 08:58:15 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Mon 17 Jul 2023 08:58:15 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=deno) {}
+[INFO  Mon 17 Jul 2023 08:58:15 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=prettier) {}
+[INFO  Mon 17 Jul 2023 08:58:15 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=clangd) {}
+[INFO  Mon 17 Jul 2023 08:58:15 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=clang-format) {}
+[INFO  Mon 17 Jul 2023 08:58:17 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=prettier)
+[INFO  Mon 17 Jul 2023 08:58:20 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=html-lsp)
+[INFO  Mon 17 Jul 2023 08:58:22 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=typescript-language-server)
+[INFO  Mon 17 Jul 2023 08:58:22 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=clang-format)
+[INFO  Mon 17 Jul 2023 08:58:22 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=css-lsp)
+[INFO  Mon 17 Jul 2023 08:58:24 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lua-language-server)
+[INFO  Mon 17 Jul 2023 08:58:24 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=stylua)
+[INFO  Mon 17 Jul 2023 08:58:39 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=deno)
+[INFO  Mon 17 Jul 2023 08:58:47 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=clangd)
+[INFO  Mon 17 Jul 2023 09:58:40 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=taplo) {}
+[INFO  Mon 17 Jul 2023 09:58:42 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=taplo)
+[INFO  Fri 21 Jul 2023 12:48:35 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[INFO  Fri 21 Jul 2023 12:48:35 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Fri 21 Jul 2023 12:48:35 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=css-lsp) {}
+[INFO  Fri 21 Jul 2023 12:48:35 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=html-lsp) {}
+[INFO  Fri 21 Jul 2023 12:48:35 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Fri 21 Jul 2023 12:48:35 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=deno) {}
+[INFO  Fri 21 Jul 2023 12:48:35 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=prettier) {}
+[INFO  Fri 21 Jul 2023 12:48:35 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=clangd) {}
+[INFO  Fri 21 Jul 2023 12:48:35 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=clang-format) {}
+[INFO  Fri 21 Jul 2023 12:48:38 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lua-language-server)
+[INFO  Fri 21 Jul 2023 12:48:41 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=prettier)
+[INFO  Fri 21 Jul 2023 12:48:42 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=clang-format)
+[INFO  Fri 21 Jul 2023 12:48:44 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=typescript-language-server)
+[INFO  Fri 21 Jul 2023 12:48:44 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=stylua)
+[INFO  Fri 21 Jul 2023 12:48:45 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=css-lsp)
+[INFO  Fri 21 Jul 2023 12:48:46 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=html-lsp)
+[INFO  Fri 21 Jul 2023 12:48:59 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=deno)
+[INFO  Fri 21 Jul 2023 12:49:01 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=codelldb) {}
+[INFO  Fri 21 Jul 2023 12:49:04 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=cpptools) {}
+[INFO  Fri 21 Jul 2023 12:49:05 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[INFO  Fri 21 Jul 2023 12:49:06 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=clangd)
+[INFO  Fri 21 Jul 2023 12:49:15 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=rust-analyzer)
+[INFO  Fri 21 Jul 2023 12:49:38 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=codelldb)
+[INFO  Fri 21 Jul 2023 12:49:38 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=cpptools)
+[INFO  Fri 21 Jul 2023 12:50:48 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=beautysh) {}
+[INFO  Fri 21 Jul 2023 12:50:50 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=beautysh)
+[INFO  Fri 21 Jul 2023 12:51:27 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=shfmt) {}
+[INFO  Fri 21 Jul 2023 12:51:28 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=shfmt)
+[INFO  Tue 08 Aug 2023 11:20:28 AM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[INFO  Tue 08 Aug 2023 11:20:28 AM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Tue 08 Aug 2023 11:20:28 AM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=css-lsp) {}
+[INFO  Tue 08 Aug 2023 11:20:28 AM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=html-lsp) {}
+[INFO  Tue 08 Aug 2023 11:20:28 AM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Tue 08 Aug 2023 11:20:28 AM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=deno) {}
+[INFO  Tue 08 Aug 2023 11:20:28 AM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=prettier) {}
+[INFO  Tue 08 Aug 2023 11:20:28 AM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=clangd) {}
+[INFO  Tue 08 Aug 2023 11:20:28 AM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=clang-format) {}
+[INFO  Tue 08 Aug 2023 11:20:33 AM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=clang-format)
+[INFO  Tue 08 Aug 2023 11:20:35 AM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=prettier)
+[INFO  Tue 08 Aug 2023 11:20:36 AM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=typescript-language-server)
+[INFO  Tue 08 Aug 2023 11:20:37 AM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=stylua)
+[INFO  Tue 08 Aug 2023 11:20:37 AM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lua-language-server)
+[INFO  Tue 08 Aug 2023 11:20:38 AM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=css-lsp)
+[INFO  Tue 08 Aug 2023 11:20:38 AM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=html-lsp)
+[INFO  Tue 08 Aug 2023 11:20:47 AM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=deno)
+[INFO  Tue 08 Aug 2023 11:21:10 AM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[INFO  Tue 08 Aug 2023 11:21:22 AM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=rust-analyzer)
+[ERROR Tue 08 Aug 2023 11:21:45 AM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=clangd) error="Installation was aborted."
+[INFO  Tue 05 Sep 2023 11:27:03 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[INFO  Tue 05 Sep 2023 11:27:03 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Tue 05 Sep 2023 11:27:03 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=css-lsp) {}
+[INFO  Tue 05 Sep 2023 11:27:03 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=html-lsp) {}
+[INFO  Tue 05 Sep 2023 11:27:03 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Tue 05 Sep 2023 11:27:03 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=deno) {}
+[INFO  Tue 05 Sep 2023 11:27:03 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=prettier) {}
+[INFO  Tue 05 Sep 2023 11:27:03 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=clangd) {}
+[INFO  Tue 05 Sep 2023 11:27:03 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=clang-format) {}
+[ERROR Tue 05 Sep 2023 11:27:03 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=prettier) error=spawn: npm failed with exit code 0 and signal 5. 
+[ERROR Tue 05 Sep 2023 11:27:03 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=html-lsp) error=spawn: npm failed with exit code 0 and signal 5. 
+[ERROR Tue 05 Sep 2023 11:27:03 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code 0 and signal 5. 
+[ERROR Tue 05 Sep 2023 11:27:03 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=css-lsp) error=spawn: npm failed with exit code 0 and signal 5. 
+[INFO  Tue 05 Sep 2023 11:27:04 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lua-language-server)
+[INFO  Tue 05 Sep 2023 11:27:05 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=clang-format)
+[INFO  Tue 05 Sep 2023 11:27:05 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=stylua)
+[INFO  Tue 05 Sep 2023 11:27:10 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=deno)
+[INFO  Tue 05 Sep 2023 11:27:13 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=clangd)
+[INFO  Tue 05 Sep 2023 11:28:02 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[INFO  Tue 05 Sep 2023 11:28:04 PM PDT] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=rust-analyzer)
+[ERROR Sun 28 Jan 2024 04:36:57 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:80: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 4 and signal 0. 
+[INFO  Sun 28 Jan 2024 04:36:59 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[INFO  Sun 28 Jan 2024 04:37:00 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lua-language-server)
+[ERROR Sun 28 Jan 2024 04:53:23 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:80: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 4 and signal 0. 
+[INFO  Sun 28 Jan 2024 04:53:52 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[INFO  Sun 28 Jan 2024 04:53:54 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=rust-analyzer)
+[INFO  Sun 28 Jan 2024 04:53:59 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ast-grep) {}
+[INFO  Sun 28 Jan 2024 04:54:02 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=ast-grep)
+[INFO  Sun 28 Jan 2024 04:55:23 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=clangd) {}
+[INFO  Sun 28 Jan 2024 04:55:25 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=clangd)
+[INFO  Sun 28 Jan 2024 04:55:29 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=cpplint) {}
+[INFO  Sun 28 Jan 2024 04:55:31 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=cpplint)
+[INFO  Sun 28 Jan 2024 04:55:38 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=clang-format) {}
+[INFO  Sun 28 Jan 2024 04:55:40 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=clang-format)
+[INFO  Sun 28 Jan 2024 04:56:00 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=cpptools) {}
+[INFO  Sun 28 Jan 2024 04:56:02 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=cpptools)
+[INFO  Sun 28 Jan 2024 04:56:17 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ast-grep) {}
+[INFO  Sun 28 Jan 2024 04:56:18 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=ast-grep)
+[INFO  Sun 28 Jan 2024 04:56:21 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ast-grep) {}
+[INFO  Sun 28 Jan 2024 04:56:21 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=ast-grep)
+[ERROR Tue 30 Jan 2024 02:21:44 AM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:80: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 4 and signal 0. 
+[ERROR Wed 31 Jan 2024 05:37:04 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:80: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 4 and signal 0. 
+[ERROR Wed 31 Jan 2024 06:29:24 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:80: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 4 and signal 0. 
+[INFO  Wed 31 Jan 2024 06:29:57 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=bash-language-server) {}
+[INFO  Wed 31 Jan 2024 06:30:00 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=bash-language-server)
+[INFO  Wed 31 Jan 2024 06:30:04 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=shellcheck) {}
+[INFO  Wed 31 Jan 2024 06:30:05 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=shellcheck)
+[INFO  Wed 31 Jan 2024 06:30:07 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=beautysh) {}
+[INFO  Wed 31 Jan 2024 06:30:09 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=beautysh)
+[INFO  Wed 31 Jan 2024 06:33:33 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ast-grep) {}
+[INFO  Wed 31 Jan 2024 06:33:36 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=ast-grep)
+[INFO  Wed 31 Jan 2024 06:33:38 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=beautysh) {}
+[INFO  Wed 31 Jan 2024 06:33:40 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=beautysh)
+[ERROR Wed 31 Jan 2024 06:35:44 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:80: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 4 and signal 0. 
+[INFO  Wed 31 Jan 2024 06:35:46 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=shfmt) {}
+[INFO  Wed 31 Jan 2024 06:35:47 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=shfmt)
+[INFO  Wed 31 Jan 2024 06:35:54 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=beautysh) {}
+[INFO  Wed 31 Jan 2024 06:35:56 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=beautysh)
+[ERROR Fri 02 Feb 2024 09:30:23 AM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:80: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 4 and signal 0. 
+[ERROR Sat 03 Feb 2024 02:43:46 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:80: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 4 and signal 0. 
+[ERROR Sun 04 Feb 2024 12:27:42 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:80: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 4 and signal 0. 
+[ERROR Sun 04 Feb 2024 02:45:36 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:80: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 4 and signal 0. 
+[ERROR Tue 06 Feb 2024 01:21:18 AM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:80: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 4 and signal 0. 
+[ERROR Wed 07 Feb 2024 12:28:37 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:80: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 4 and signal 0. 
+[ERROR Thu 08 Feb 2024 01:52:14 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:80: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 4 and signal 0. 
+[ERROR Fri 09 Feb 2024 01:57:43 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:80: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 4 and signal 0. 
+[ERROR Sat 10 Feb 2024 05:30:21 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:80: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 4 and signal 0. 
+[ERROR Sun 11 Feb 2024 01:26:51 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:80: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 4 and signal 0. 
+[INFO  Sun 11 Feb 2024 01:27:13 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=shfmt) {}
+[ERROR Sun 11 Feb 2024 01:27:14 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=shfmt) error='.../.local/share/nvim/lazy/mason.nvim/lua/mason-core/fs.lua:53: rmrf: Could not remove directory "/home/nickdev/.local/share/nvim/mason/packages/shfmt".'
+[INFO  Sun 11 Feb 2024 01:27:15 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ast-grep) {}
+[ERROR Sun 11 Feb 2024 01:27:18 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ast-grep) error=spawn: npm failed with exit code 243 and signal 0. 
+[INFO  Sun 11 Feb 2024 01:27:21 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[INFO  Sun 11 Feb 2024 01:27:23 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=rust-analyzer)
+[ERROR Sun 11 Feb 2024 01:31:34 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:80: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 4 and signal 0. 
+[ERROR Sun 11 Feb 2024 07:36:41 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:80: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 4 and signal 0. 
+[ERROR Mon 12 Feb 2024 03:18:15 AM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:80: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 4 and signal 0. 
+[ERROR Mon 12 Feb 2024 03:26:31 AM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:80: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 4 and signal 0. 
+[ERROR Mon 12 Feb 2024 08:14:29 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:80: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 4 and signal 0. 
+[ERROR Thu 15 Feb 2024 01:23:08 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:80: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 4 and signal 0. 
+[ERROR Fri 16 Feb 2024 08:18:17 PM PST] ...l/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:80: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 4 and signal 0. 
+[INFO  Fri 16 Feb 2024 08:18:21 PM PST] ...l/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[INFO  Fri 16 Feb 2024 08:18:23 PM PST] ...l/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lua-language-server)
+[ERROR Sun 18 Feb 2024 11:45:41 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:80: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 4 and signal 0. 
+[ERROR Tue 20 Feb 2024 03:26:40 AM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:80: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 5 and signal 0. 
+[ERROR Wed 21 Feb 2024 01:22:30 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:80: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 5 and signal 0. 
+[ERROR Wed 21 Feb 2024 01:28:17 PM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:80: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 5 and signal 0. 
+[ERROR Fri 23 Feb 2024 01:20:09 AM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:80: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 5 and signal 0. 
+[ERROR Sat 24 Feb 2024 01:37:57 AM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:80: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 5 and signal 0. 
+[ERROR Sun 25 Feb 2024 04:15:39 AM PST] ...e/nvim/lazy/mason.nvim/lua/mason-core/providers/init.lua:80: Provider "github" "get_latest_release" failed: spawn: wget failed with exit code 5 and signal 0. 

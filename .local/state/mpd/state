@@ -1,0 +1,312 @@
+sw_volume: 52
+audio_device_state:1:PipeWire Sound Server
+state: play
+current: 119
+time: 120.069000
+random: 1
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Haken/Virus/01 Prosthetic.opus
+1:Unleash The Archers/Apex/01 Awakening.opus
+2:Unleash The Archers/Abyss/06 Soulbound.opus
+3:Unleash The Archers/Abyss/07 Faster Than Light.opus
+4:Unleash The Archers/Abyss/08 The Wind That Shapes the Land.opus
+5:Unleash The Archers/Abyss/01 Waking Dream.opus
+6:Tech N9ne/All 6's And 7's/02 Technicians.opus
+7:Tech N9ne/All 6's And 7's/04 Am I A Psycho.opus
+8:Tech N9ne/All 6's And 7's/06 Worldwide Choppers.opus
+9:Tech N9ne/All 6's And 7's/23 Mama Nem.opus
+10:Tech N9ne/Misery Loves Kompany/02 Midwest Choppers.opus
+11:Tech N9ne/Sickology 101/02 Midwest Choppers 2.opus
+12:Tech N9ne/Sickology 101/13 Dysfunctional.opus
+13:Tech N9ne/Sickology 101/12 Sorry N' Shit.opus
+14:Dokken/Tooth And Nail/09 Alone Again.opus
+15:Dokken/Tooth And Nail/07 Into The Fire.opus
+16:Dokken/Tooth And Nail/02 Tooth and Nail.opus
+17:Megadeth/Dystopia/01 The Threat Is Real.opus
+18:Megadeth/Dystopia/02 Dystopia.opus
+19:Megadeth/Dystopia/06 Post American World.opus
+20:Megadeth/Dystopia/08 Conquer Or Die.opus
+21:Megadeth/Peace Sells/05 Good Mourning  Black Friday - Remastered.opus
+22:Megadeth/Peace Sells/03 Peace Sells - Remastered.opus
+23:Megadeth/Rust In Peace/02 Hangar 18.opus
+24:Megadeth/Rust In Peace/05 Poison Was The Cure.opus
+25:Megadeth/Rust In Peace/07 Tornado Of Souls.opus
+26:Megadeth/Rust In Peace/09 Rust In Peace...Polaris.opus
+27:Megadeth/Rust In Peace/01 Holy Wars...The Punishment Due.opus
+28:Megadeth/So Far, So Good...So What!/01 Into The Lungs Of Hell.opus
+29:Megadeth/So Far, So Good...So What!/04 Mary Jane.opus
+30:Megadeth/So Far, So Good...So What!/06 In My Darkest Hour.opus
+31:Megadeth/So Far, So Good...So What!/07 Liar.opus
+32:Megadeth/The Sick The Dying...And The Dead!/01 The Sick, The Dying… And The Dead!.opus
+33:Megadeth/The Sick The Dying...And The Dead!/04 Dogs Of Chernobyl.opus
+34:Megadeth/The Sick The Dying...And The Dead!/09 Soldier On!.opus
+35:Megadeth/United Abominations/02 Washington Is Next!.opus
+36:Megadeth/Youthanasia/06 The Killing Road - Remastered 2004.opus
+37:Megadeth/Youthanasia/08 Family Tree - Remastered 2004.opus
+38:Marty Friedman/Dragon's Kiss/03 Evil Thrill.opus
+39:Marty Friedman/Dragon's Kiss/04 Namida (Tears).opus
+40:Marty Friedman/Dragon's Kiss/07 Forbidden City.opus
+41:Marty Friedman/Dragon's Kiss/06 Jewel.opus
+42:Linkin Park/Hybrid Theory/01 Papercut.opus
+43:Linkin Park/Hybrid Theory/02 One Step Closer.opus
+44:Linkin Park/Hybrid Theory/03 With You.opus
+45:Linkin Park/Hybrid Theory/04 Points of Authority.opus
+46:Linkin Park/Hybrid Theory/05 Crawling.opus
+47:Linkin Park/Hybrid Theory/06 Runaway.opus
+48:Linkin Park/Hybrid Theory/07 By Myself.opus
+49:Linkin Park/Hybrid Theory/08 In the End.opus
+50:Linkin Park/Hybrid Theory/10 Forgotten.opus
+51:Linkin Park/Hybrid Theory/09 A Place for My Head.opus
+52:Linkin Park/Hybrid Theory/11 Cure for the Itch.opus
+53:Linkin Park/Hybrid Theory/12 Pushing Me Away.opus
+54:Linkin Park/Hybrid Theory/13 My December.opus
+55:Linkin Park/Hybrid Theory/14 High Voltage.opus
+56:Linkin Park/Meteora/01 Foreword.opus
+57:Linkin Park/Meteora/02 Don't Stay.opus
+58:Linkin Park/Meteora/03 Somewhere I Belong.opus
+59:Linkin Park/Meteora/04 Lying from You.opus
+60:Linkin Park/Meteora/05 Hit the Floor.opus
+61:Linkin Park/Meteora/06 Easier to Run.opus
+62:Linkin Park/Meteora/07 Faint.opus
+63:Linkin Park/Meteora/08 Figure.09.opus
+64:Linkin Park/Meteora/09 Breaking the Habit.opus
+65:Linkin Park/Meteora/10 From the Inside.opus
+66:Linkin Park/Meteora/11 Nobody's Listening.opus
+67:Linkin Park/Meteora/13 Numb.opus
+68:Linkin Park/Meteora/12 Session.opus
+69:Ozzy Osbourne/Bark At The Moon/01 Bark at the Moon.opus
+70:Ozzy Osbourne/Bark At The Moon/07 Slow Down.opus
+71:Ozzy Osbourne/Bark At The Moon/04 Rock 'n' Roll Rebel.opus
+72:Ozzy Osbourne/Blizzard Of Ozz/01 I Don't Know.opus
+73:Ozzy Osbourne/Blizzard Of Ozz/02 Crazy Train.opus
+74:Ozzy Osbourne/Blizzard Of Ozz/05 Suicide Solution.opus
+75:Ozzy Osbourne/Blizzard Of Ozz/06 Mr. Crowley.opus
+76:Ozzy Osbourne/Blizzard Of Ozz/08 Revelation (Mother Earth).opus
+77:Ozzy Osbourne/Diary Of A Madman/01 Over the Mountain.opus
+78:Ozzy Osbourne/Diary Of A Madman/08 Diary of a Madman.opus
+79:Ozzy Osbourne/No More Tears/01 Mr. Tinkertrain.opus
+80:Ozzy Osbourne/No More Tears/02 I Don't Want to Change the World.opus
+81:Ozzy Osbourne/No More Tears/03 Mama, I'm Coming Home.opus
+82:Ozzy Osbourne/No More Tears/04 Desire.opus
+83:Ozzy Osbourne/No More Tears/05 No More Tears.opus
+84:Ozzy Osbourne/No More Tears/06 Won't Be Coming Home (S.I.N.).opus
+85:Ozzy Osbourne/No More Tears/07 Hellraiser.opus
+86:Ozzy Osbourne/Ordinary Man/01 Straight to Hell.opus
+87:Ozzy Osbourne/Ordinary Man/04 Ordinary Man (feat. Elton John).opus
+88:Ozzy Osbourne/Ordinary Man/10 It's A Raid (feat. Post Malone).opus
+89:Ozzy Osbourne/Ordinary Man/11 Take What You Want (feat. Ozzy Osbourne & Travis Scott).opus
+90:Ozzy Osbourne/Ozzmosis/01 Perry Mason.opus
+91:Ozzy Osbourne/Ozzmosis/02 I Just Want You.opus
+92:Ozzy Osbourne/Ozzmosis/04 Thunder Underground.opus
+93:Ozzy Osbourne/Ozzmosis/09 My Jekyll Doesn't Hide.opus
+94:Ozzy Osbourne/The Ultimate Sin/01 The Ultimate Sin.opus
+95:Ozzy Osbourne/The Ultimate Sin/04 Thank God for the Bomb.opus
+96:Ozzy Osbourne/The Ultimate Sin/07 Killer of Giants.opus
+97:Ozzy Osbourne/The Ultimate Sin/09 Shot in the Dark.opus
+98:Pantera/Cowboys From Hell/01 Cowboys from Hell.opus
+99:Pantera/Cowboys From Hell/02 Primal Concrete Sledge.opus
+100:Pantera/Cowboys From Hell/03 Psycho Holiday.opus
+101:Pantera/Cowboys From Hell/05 Cemetery Gates.opus
+102:Pantera/Cowboys From Hell/06 Domination.opus
+103:Pantera/Cowboys From Hell/09 Medicine Man.opus
+104:Pantera/Cowboys From Hell/08 Clash with Reality.opus
+105:Pantera/Cowboys From Hell/11 The Sleep.opus
+106:Pantera/Cowboys From Hell/12 The Art of Shredding.opus
+107:Pantera/Cowboys From Hell/10 Message in Blood.opus
+108:Pantera/Far Beyond Driven/03 5 Minutes Alone.opus
+109:Pantera/Far Beyond Driven/04 I'm Broken.opus
+110:Pantera/The Great Southern Trendkill/02 War Nerve.opus
+111:Pantera/The Great Southern Trendkill/01 The Great Southern Trendkill.opus
+112:Pantera/The Great Southern Trendkill/09 Floods.opus
+113:Pantera/Vulgar Display Of Power/01 Mouth for War - 2012 Remaster.opus
+114:Pantera/Vulgar Display Of Power/03 Walk - 2012 Remaster.opus
+115:Pantera/Vulgar Display Of Power/04 Fucking Hostile - 2012 Remaster.opus
+116:Periphery/Periphery II/01 Muramasa.opus
+117:Periphery/Periphery III: Select Difficulty/03 Marigold.opus
+118:Pink Floyd/The Dark Side of the Moon/02 Breathe (In the Air).opus
+119:Pink Floyd/The Dark Side of the Moon/06 Money.opus
+120:Pink Floyd/Wish You Were Here/01 Shine On You Crazy Diamond (Pts. 1-5).opus
+121:Pink Floyd/Wish You Were Here/02 Welcome to the Machine.opus
+122:Pink Floyd/Wish You Were Here/04 Wish You Were Here.opus
+123:Queensryche/Empire/06 Empire - Remastered 2003.opus
+124:Queensryche/Empire/11 Anybody Listening - Remastered 2003.opus
+125:Queensryche/Empire/07 Resistance - Remastered 2003.opus
+126:Queensryche/Empire/01 Best I Can - Remastered 2003.opus
+127:Queensryche/Operation Mindcrime/01 I Remember Now - Remastered 2003.opus
+128:Queensryche/Operation Mindcrime/02 Anarchy-X - Remastered 2003.opus
+129:Queensryche/Operation Mindcrime/04 Operation Mindcrime - Remastered 2003.opus
+130:Queensryche/Operation Mindcrime/05 Speak - Remastered 2003.opus
+131:Queensryche/Operation Mindcrime/06 Spreading The Disease - Remastered 2003.opus
+132:Queensryche/Operation Mindcrime/07 The Mission - Remastered 2003.opus
+133:Queensryche/Operation Mindcrime/09 The Needle Lies - Remastered 2003.opus
+134:Queensryche/Operation Mindcrime/08 Suite Sister Mary - Remastered 2003.opus
+135:Queensryche/Operation Mindcrime/11 Breaking The Silence - Remastered 2003.opus
+136:Queensryche/Operation Mindcrime/10 Electric Requiem - Remastered 2003.opus
+137:Queensryche/Operation Mindcrime/13 Waiting For 22 - Remastered 2003.opus
+138:Queensryche/Operation Mindcrime/12 I Don't Believe In Love - Remastered 2003.opus
+139:Queensryche/Operation Mindcrime/14 My Empty Room - Remastered 2003.opus
+140:Queensryche/Operation Mindcrime/16 The Mission - Live At The Hammersmith Odeon, London, England1990Remastered.opus
+141:Queensryche/Queensryche/02 Nightrider - Remastered 2003.opus
+142:Queensryche/Queensryche/03 Blinded - Remastered 2003.opus
+143:Queensryche/Queensryche/01 Queen Of The Reich - Remastered 2003.opus
+144:Queensryche/Queensryche/09 En Force - Live At Nihon Seinen-kan, Toyko, Japan, 1984  Remastered 2003.opus
+145:Queensryche/Rage For Order/01 Walk In The Shadows.opus
+146:Queensryche/The Warning/03 Deliverance - Remastered.opus
+147:Queensryche/The Warning/04 No Sanctuary - Remastered.opus
+148:Queensryche/The Warning/08 Child Of Fire - Remastered.opus
+149:Queensryche/The Warning/06 Take Hold Of The Flame - Remastered.opus
+150:Queensryche/The Warning/11 The Lady Wore Black - LiveRemastered.opus
+151:Racer X/Street Lethal/02 Street Lethal.opus
+152:Racer X/Street Lethal/08 Y.R.O..opus
+153:Racer X/Technical Difficulties/04 Technical Difficulties.opus
+154:Scorpions/Animal Magnetism/08 The Zoo.opus
+155:Scorpions/Animal Magnetism/09 Animal Magnetism.opus
+156:Scorpions/Blackout/01 Blackout.opus
+157:Scorpions/Crazy World/01 Tease Me Please Me.opus
+158:Scorpions/Crazy World/04 Wind Of Change.opus
+159:Scorpions/Crazy World/11 Send Me An Angel.opus
+160:Scorpions/Love At First Sting/01 Bad Boys Running Wild.opus
+161:Scorpions/Love At First Sting/02 Rock You Like A Hurricane.opus
+162:Scorpions/Love At First Sting/06 Big City Nights.opus
+163:Scorpions/Love At First Sting/09 Still Loving You.opus
+164:Slayer/Christ Illusion/01 Flesh Storm.opus
+165:Slayer/Christ Illusion/02 Catalyst.opus
+166:Slayer/Christ Illusion/05 Jihad.opus
+167:Slayer/Christ Illusion/06 Consfearacy.opus
+168:Slayer/Christ Illusion/10 Supremist.opus
+169:Slayer/Diabolus In Musica/02 Death's Head.opus
+170:Slayer/Diabolus In Musica/09 Scrum.opus
+171:Slayer/Diabolus In Musica/07 Desire.opus
+172:Slayer/Diabolus In Musica/11 Point.opus
+173:Slayer/Diabolus In Musica/10 Screaming From The Sky.opus
+174:Slayer/God Hates Us All/02 Disciple.opus
+175:Slayer/God Hates Us All/03 God Send Death.opus
+176:Slayer/God Hates Us All/08 Seven Faces.opus
+177:Slayer/God Hates Us All/09 Bloodline.opus
+178:Slayer/God Hates Us All/10 Deviance.opus
+179:Slayer/God Hates Us All/13 Payback.opus
+180:Slayer/Live Undead - Haunting the Chapel/01 Black Magic.opus
+181:Slayer/Live Undead - Haunting the Chapel/07 Aggressive Perfector.opus
+182:Slayer/Live Undead - Haunting the Chapel/08 Chemical Warfare.opus
+183:Slayer/Reign In Blood/01 Angel Of Death.opus
+184:Slayer/Reign In Blood/10 Raining Blood.opus
+185:Slayer/Repentless/01 Delusions of Saviour.opus
+186:Slayer/Repentless/02 Repentless.opus
+187:Slayer/Repentless/03 Take Control.opus
+188:Slayer/Repentless/08 Implode.opus
+189:Slayer/Repentless/11 You Against You.opus
+190:Slayer/Repentless/12 Pride in Prejudice.opus
+191:Slayer/Seasons In The Abyss/01 War Ensemble.opus
+192:Slayer/Seasons In The Abyss/05 Dead Skin Mask.opus
+193:Slayer/Seasons In The Abyss/06 Hallowed Point.opus
+194:Slayer/Seasons In The Abyss/07 Skeletons Of Society.opus
+195:Slayer/Seasons In The Abyss/10 Seasons In The Abyss.opus
+196:Slayer/Show No Mercy/06 Black Magic.opus
+197:Slayer/South Of Heaven/01 South Of Heaven.opus
+198:Slayer/South Of Heaven/04 Behind The Crooked Cross.opus
+199:Slayer/South Of Heaven/05 Mandatory Suicide.opus
+200:Slayer/South Of Heaven/09 Dissident Aggressor.opus
+201:Slayer/World Painted Blood/01 World Painted Blood.opus
+202:Slipknot/All Hope Is Gone/03 Sulfur.opus
+203:Slipknot/All Hope Is Gone/04 Psychosocial.opus
+204:Slipknot/All Hope Is Gone/05 Dead Memories.opus
+205:Slipknot/All Hope Is Gone/12 All Hope Is Gone.opus
+206:Slipknot/Iowa/02 People = Shit.opus
+207:Slipknot/Iowa/01 (515).opus
+208:Slipknot/Iowa/14 Iowa.opus
+209:Slipknot/Slipknot/01 742617000027.opus
+210:Slipknot/Slipknot/02 (sic).opus
+211:Slipknot/Slipknot/03 Eyeless.opus
+212:Slipknot/Slipknot/04 Wait and Bleed.opus
+213:Slipknot/Slipknot/05 Surfacing.opus
+214:Slipknot/Slipknot/06 Spit It Out.opus
+215:Slipknot/Slipknot/07 Tattered & Torn.opus
+216:Slipknot/Slipknot/08 Me Inside.opus
+217:Slipknot/Slipknot/09 Liberate.opus
+218:Slipknot/Slipknot/13 Only One.opus
+219:Slipknot/Slipknot/15 Eeyore.opus
+220:Slipknot/Slipknot/14 Scissors.opus
+221:Slipknot/The End, So Far/02 The Dying Song (Time To Sing).opus
+222:Slipknot/The End, So Far/03 The Chapeltown Rag.opus
+223:Slipknot/Vol.3 The Subliminal Verses/11 Vermilion, Pt. 2.opus
+224:Slipknot/Vol.3 The Subliminal Verses/04 Duality.opus
+225:Slipknot/Vol.5 The Gray Chapter/04 The Devil in I.opus
+226:Slipknot/Vol.5 The Gray Chapter/11 Custer.opus
+227:Slipknot/We Are Not Your Kind/02 Unsainted.opus
+228:Slipknot/We Are Not Your Kind/14 Solway Firth.opus
+229:Symphony X/The Damnation Game/01 The Damnation Game.opus
+230:Symphony X/The Damnation Game/04 Savage Curtain.opus
+231:Symphony X/The Damnation Game/06 The Haunting.opus
+232:Symphony X/The Divine Wings of Tragedy/01 Of Sins and Shadows.opus
+233:Symphony X/The Divine Wings of Tragedy/02 Sea of Lies.opus
+234:Symphony X/The Divine Wings of Tragedy/03 Out of the Ashes.opus
+235:Symphony X/The Divine Wings of Tragedy/04 The Accolade.opus
+236:Symphony X/The Divine Wings of Tragedy/05 Pharaoh.opus
+237:Symphony X/The Divine Wings of Tragedy/06 The Eyes of Medusa.opus
+238:Symphony X/The Divine Wings of Tragedy/07 The Witching Hour.opus
+239:Symphony X/The Divine Wings of Tragedy/08 The Divine Wings of Tragedy.opus
+240:Symphony X/The Divine Wings of Tragedy/09 Candlelight Fantasia.opus
+241:Symphony X/Twilight in Olympus/01 Smoke and Mirrors.opus
+242:Symphony X/Twilight in Olympus/02 Church of the Machine.opus
+243:Symphony X/Twilight in Olympus/05 Through the Looking Glass - Part I, II & III.opus
+244:Symphony X/V The New Mythology Suite/01 Prelude.opus
+245:Symphony X/V The New Mythology Suite/02 Evolution (The Grand Design).opus
+246:Symphony X/V The New Mythology Suite/03 Fallen.opus
+247:Symphony X/V The New Mythology Suite/04 Transcendence (Segue).opus
+248:Symphony X/V The New Mythology Suite/05 Communion and the Oracle.opus
+249:Symphony X/V The New Mythology Suite/06 The Bird Serpent War  Cataclysm.opus
+250:Symphony X/V The New Mythology Suite/07 On the Breath of Poseidon (Segue).opus
+251:Symphony X/V The New Mythology Suite/08 Egypt.opus
+252:Symphony X/V The New Mythology Suite/09 The Death of Balance  Lacrymosa.opus
+253:Symphony X/V The New Mythology Suite/10 Absence of Light.opus
+254:Symphony X/V The New Mythology Suite/11 A Fool's Paradise.opus
+255:Symphony X/V The New Mythology Suite/12 Rediscovery (Segue).opus
+256:Symphony X/V The New Mythology Suite/13 Rediscovery, Pt. II (The New Mythology).opus
+257:Van Halen/1984/01 1984 - 2015 Remaster.opus
+258:Van Halen/1984/02 Jump - 2015 Remaster.opus
+259:Van Halen/1984/03 Panama - 2015 Remaster.opus
+260:Van Halen/1984/06 Hot for Teacher - 2015 Remaster.opus
+261:Van Halen/Van Halen/01 Runnin' with the Devil - 2015 Remaster.opus
+262:Van Halen/Van Halen/02 Eruption - 2015 Remaster.opus
+263:Van Halen/Van Halen/03 You Really Got Me - 2015 Remaster.opus
+264:Van Halen/Van Halen/04 Ain't Talkin' 'Bout Love - 2015 Remaster.opus
+265:Yngwie Malmsteen/Concerto Suite For Electric Guitar and Orchestra in E Flat Minor Live With the New Japan Philharmonic/07 Prelude to April.opus
+266:Yngwie Malmsteen/Concerto Suite For Electric Guitar and Orchestra in E Flat Minor Live With the New Japan Philharmonic/08 Toccata.opus
+267:Yngwie Malmsteen/Concerto Suite For Electric Guitar and Orchestra in E Flat Minor Live With the New Japan Philharmonic/02 Trilogy Suite Op. 5 - The First Movement.opus
+268:Yngwie Malmsteen/Fire And Ice/05 Cry No More.opus
+269:Yngwie Malmsteen/Fire And Ice/09 Fire and Ice.opus
+270:Yngwie Malmsteen/Magnum Opus/01 Vengeance.opus
+271:Yngwie Malmsteen/Magnum Opus/07 Voodoo.opus
+272:Yngwie Malmsteen/Odyssey/01 Rising Force.opus
+273:Yngwie Malmsteen/Odyssey/04 Dreaming (Tell Me).opus
+274:Yngwie Malmsteen/Odyssey/06 Riot In The Dungeons.opus
+275:Yngwie Malmsteen/Odyssey/07 Deja Vu.opus
+276:Yngwie Malmsteen/Odyssey/08 Crystal Ball.opus
+277:Yngwie Malmsteen/Odyssey/10 Faster Than Speed Of Light.opus
+278:Yngwie Malmsteen/Odyssey/11 Krakatau.opus
+279:Yngwie Malmsteen/Odyssey/12 Memories.opus
+280:Yngwie Malmsteen/Trilogy/09 Trilogy Suite Op- 5.opus
+281:Yngwie Malmsteen/Trilogy/04 Crying.opus
+282:Yngwie Malmsteen/Trilogy/05 Fury.opus
+283:Dethklok/The Dethalbum/01 Murmaider.opus
+284:Dethklok/The Dethalbum/03 Awaken.opus
+285:Dethklok/The Dethalbum/06 Fansong.opus
+286:Dethklok/The Dethalbum/04 Bloodrocuted.opus
+287:Dethklok/The Dethalbum/05 Go Forth and Die.opus
+288:Dethklok/The Dethalbum/09 Thunderhorse.opus
+289:Dethklok/The Dethalbum/10 Briefcase Full of Guts.opus
+290:Dethklok/The Dethalbum/12 Hatredcopter.opus
+291:Dethklok/The Dethalbum/14 Face Fisted.opus
+292:Dethklok/The Dethalbum III/01 I Ejaculate Fire.opus
+293:Dethklok/The Dethalbum III/02 Crush The Industry.opus
+294:Dethklok/The Dethalbum III/04 The Galaxy.opus
+295:Dethklok/The Dethalbum III/10 Skyhunter.opus
+296:Dethklok/The Dethalbum III/08 Impeach God.opus
+297:Dethklok/The Dethalbum III/11 The Hammer.opus
+playlist_end
